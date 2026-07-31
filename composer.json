@@ -3,7 +3,7 @@
     "description": "One-command site installer for Exponential CMS: activates the Layouts and site extensions, imports the data pack, regenerates autoloads and clears caches. Ported from netgen/site-installer-bundle.",
     "type": "ezpublish-legacy-extension",
     "homepage": "https://se7enx.com",
-    "license": "GNU General Public License v2.0 (or any later version)",
+    "license": "GPL-2.0-or-later",
     "require": {
         "php": "^8.1 || ^8.2 || ^8.3 || ^8.4"
     },
