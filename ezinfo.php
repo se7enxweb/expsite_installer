@@ -13,10 +13,10 @@ class expsite_installerInfo
 {
     public static function info()
     {
-        return array( Name => "expsite_installer",
-                      Version => "1.0.1",
-                      Copyright => "Copyright (C) 1998 - 2026 7x. All rights reserved.",
-                      License => "GNU General Public License v2.0 (or any later version)",
-                      info_url => "https://github.com/se7enxweb/expsite_installer" );
+        return array( 'Name' => "expsite_installer",
+                      'Version' => "1.0.1",
+                      'Copyright' => "Copyright (C) 1998 - 2026 7x. All rights reserved.",
+                      'License' => "GNU General Public License v2.0 (or any later version)",
+                      'Info_url' => "https://github.com/se7enxweb/expsite_installer" );
     }
 }
