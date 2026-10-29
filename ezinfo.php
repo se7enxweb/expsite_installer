@@ -1,7 +1,7 @@
 <?php
 //
 // expsite_installer - One-command site installer for Exponential CMS: activates the Layouts and site extensions, imports the data pack, regenerates autoloads and clears caches.
-// Copyright (C) 1998 - 2026 7x. All rights reserved.
+// Copyright (C) 1998 - 2026 Exponential Foundation and 7x. All rights reserved.
 //
 // This program is free software; you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
@@ -15,7 +15,7 @@ class expsite_installerInfo
     {
         return array( 'Name' => "expsite_installer",
                       'Version' => "1.0.3",
-                      'Copyright' => "Copyright (C) 1998 - 2026 7x. All rights reserved.",
+                      'Copyright' => "Copyright (C) 1998 - 2026 Exponential Foundation and 7x. All rights reserved.",
                       'License' => "GNU General Public License v2.0 (or any later version)",
                       'Info_url' => "https://github.com/se7enxweb/expsite_installer" );
     }
